@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: aml-docker
+  IMAGE_NAME: AzureML-docker
 
 jobs:
   # Run tests.
