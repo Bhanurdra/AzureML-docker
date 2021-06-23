@@ -1,1 +1,1 @@
-This is a base image created for Azure ML using Python SDK.
+This is a simple container created for Azure ML using Python SDK.
